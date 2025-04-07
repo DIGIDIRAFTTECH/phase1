@@ -7,5 +7,5 @@ Project 2 - Phase 1 Report
 5. A makefile is created for building the project.
 6. The provided main() function has been successfully tested and produces the required output.
 
-Submitted by: [Your Name]
+Submitted by: RohanShrestha
 Date: April 7
