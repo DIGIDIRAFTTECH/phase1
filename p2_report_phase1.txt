@@ -1,0 +1,11 @@
+Project 2 - Phase 1 Report
+
+1. Implemented abstract base class Shape with name, constructor, and Display() as a pure virtual function.
+2. Created Point and Edge utility classes with proper accessor and mutator functions.
+3. Derived Triangle, Rectangle, and Circle classes from Shape with appropriate data members and constructors.
+4. Each class is implemented in separate .h and .cpp files for modular design.
+5. A makefile is created for building the project.
+6. The provided main() function has been successfully tested and produces the required output.
+
+Submitted by: [Your Name]
+Date: April 7
